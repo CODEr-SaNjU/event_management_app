@@ -93,9 +93,7 @@ Method: GET
 Response Status Code: 200 OK
 Response Body: JSON array of events
 
-`
-
-[
+`[
     {
         "id": 1,
         "name": "new event create",
@@ -137,9 +135,7 @@ Request Body: JSON object containing updated event information
 Response Status Code: 200 OK
 Response Body: JSON object containing the updated event information
 
-`
-# before update
-[
+`[
     {
         "id": 1,
         "name": "new event create",
