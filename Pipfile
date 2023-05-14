@@ -9,6 +9,7 @@ djangorestframework = "*"
 psycopg2 = "*"
 django-environ = "*"
 decouple = "*"
+pyyaml = "*"
 
 [dev-packages]
 
